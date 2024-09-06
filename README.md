@@ -56,7 +56,7 @@ For the instruction-based fine-tuning and inference, the sentence pairs are wrap
 <td align="left">The first text is a hypothesis/claim, the second text is a sentence. Determine whether the sentence is a pro argument ("pro"), a contra argument ("con") or doesnt take position at all/is neutral ("neu") towards the hypothesis.
 <br>For your answer, just write exactly one of pro, con or neu, not a full text.
 
-Sentence to predict:
+<br>Sentence to predict:
 <br>hypothesis: \`\`\`There should be more gun control.\`\`\`
 <br>sentence: \`\`\`It's the only country with a "2nd Amendment", yet 132 countries have a lower murder rate.\`\`\`
 <br>stance:</td>
